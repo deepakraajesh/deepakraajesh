@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Deepak<!--
-- 👀 I’m interested in ... -->
-- 🌱 I’m currently learning Django<!--
-- 💞️ I’m looking to collaborate on ... -->
+- 👋 Hi, I’m Deepak<!---
+- 👀 I’m interested in ... --->
+- 🌱 I’m currently learning Django<!---
+- 💞️ I’m looking to collaborate on ... --->
 - 📫 Email me at deepak@gewissen.in
 
 <!---
