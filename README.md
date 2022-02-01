@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Deepak
-- 🌱 I’m currently learning Django & System Design
-- 📫 Email me at deepak@gewissen.in
+- 🧑‍💻 Implementing web apps and building automation scripts is my hobby
+- 📫 Email me at deepakraajesh@outlook.com
 
 <!---
 deepakraajesh/deepakraajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
