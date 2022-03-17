@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepak
-- 🧑‍💻 Implementing web apps and building automation scripts is my hobby
-- 🧑‍💻 Interested in python programming
-- 🛡️ Hackerrank solutions @ https://github.com/deepakraajesh/learn/tree/main/Hackerrank%20problems and new problems are getting added on daily basis (Topic - Python)
+- 🧑‍💻 Interested in Web App development & automation scripts
+- 🧑‍💻 Expertising in python programming
+- 🛡️ Hackerrank,HackerEarth,Leetcode solutions @ https://github.com/deepakraajesh/learn/ and new problems are getting added on daily basis (Topic - Python, Algo, Data Structures)
 - 📫 Email me at deepakraajesh@outlook.com
 
 <!---
